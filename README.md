@@ -5,6 +5,10 @@
 </div>
 
 ---
+# Warning
+# Support voor Penguinlearn is beëindigd omdat studygo captcha's heeft toegevoegd 
+
+
 # Penguin Learn
 Penguin learn is een FOSS cient voor StudyGo
 
